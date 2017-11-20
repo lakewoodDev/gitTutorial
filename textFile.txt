@@ -1,3 +1,10 @@
 hello world
+<<<<<<< HEAD
 added after git editor line add
 second commit
+=======
+
+second commit
+
+added line text on git editor
+>>>>>>> 0d36571c73457e4405422e55a115adc5df45e250
