@@ -6,4 +6,9 @@ added text
 added line text on git editor
 Jherz line edit
 Mlenchs edited this line
+	function mutate(){
+		console.log(make a mutation here and annoy all the seasoned programmers)	
+	}
+
+
 AGoldstein added this line
