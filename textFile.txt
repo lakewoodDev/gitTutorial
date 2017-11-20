@@ -1,3 +1,5 @@
 hello world
 
 second commit
+
+added line text on git editor
